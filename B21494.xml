@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dutch armado a meer bravado. A poem upon the late engagement at sea. / By the author of the Dutch embargo.</title>
+            <author>Crouch, John, fl. 1660-1681.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21494</idno>
+            <idno type="STC">Wing D2895</idno>
+            <idno type="STC">Interim Tract Supplement Guide Lutt.III[84]</idno>
+            <idno type="STC">ESTC R226315</idno>
+            <idno type="EEBO-CITATION">99886646</idno>
+            <idno type="PROQUEST">ocm99886646</idno>
+            <idno type="VID">186960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21494)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186960)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C6:1[86])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dutch armado a meer bravado. A poem upon the late engagement at sea. / By the author of the Dutch embargo.</title>
+                  <author>Crouch, John, fl. 1660-1681.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Palmer at the Crown in Wesminster-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The author of "The Dutch embargo. ... 1665" is John Crouch.</note>
+                  <note>Verse - "After a strict embargo on their fleet,".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Poetry --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:186960:1"/>
+            <head>The Dutch Armado A meer Bravado. A POEM upon the Late Engagement at Sea.</head>
+            <byline>By the Author of the Dutch <hi>Embargo.</hi>
+            </byline>
+            <q>Non nos ampullas.—</q>
+            <lg>
+               <l>AFter a ſtrict <hi>Embargo</hi> on Their Fleet,</l>
+               <l>The <hi>Dutch</hi> inrag'd with <hi>Brandy-valour</hi> meet:</l>
+               <l>Like a deaf <hi>Fidler,</hi> tedious, large and long;</l>
+               <l>Whoſe tuning takes up more time than his Song:</l>
+               <l>Or like a thick rim'd Bull, when Goads and Stroaks</l>
+               <l>His ſullen Humor into Rage provokes.</l>
+               <l>In <hi>Creſcent form</hi> the furious <hi>Turks</hi> began,</l>
+               <l>Reſolv'd t'appear, at leaſt half Chriſtian.</l>
+               <l>But ſoon the <hi>Engliſh</hi> broke the <hi>Belgick Bow:</hi>
+               </l>
+               <l>(May the <hi>Venetian</hi> break the <hi>Ottoman</hi> ſo.)</l>
+               <l>Both Parties mixt, maintain a Noble ſtrife,</l>
+               <l>To purchaſe Vict'ry with the ſale of Life:</l>
+               <l>Guns, like their Hearts, with national heats inſpir'd,</l>
+               <l>The airy Arch into an Oven fir'd.</l>
+               <l>The ſing'd Birds to the upper Region fly</l>
+               <l>For cool Protection, or i'th' lower dye.</l>
+               <l>The Fiſh down to the boyling bottoms ſhrink,</l>
+               <l>And there like <hi>Dutch,</hi> for Water Brandy drink.</l>
+               <l>Vex'd Canons, like <hi>Perillus</hi> Engine, roar</l>
+               <l>And with import'nate violence ſeem t' implore,</l>
+               <l>Heaven to decide ſo vocal a conteſt,</l>
+               <l>In ſuch fair and Illuſtrious Colours dreſt.</l>
+               <l>Had this been (Ages ſince) a <hi>Roman</hi> Wonder,</l>
+               <l>'T had taught their Ethnick <hi>Jove</hi> new Modes of Thun<g ref="char:EOLhyphen"/>der.</l>
+               <l>The <hi>Engliſh</hi> tir'd with the leaſt Interval,</l>
+               <l>For a more expeditious Conflict call:</l>
+               <l>Reſolv'd at length (as the Old Story goes,</l>
+               <l>The <hi>Romans</hi> ſerv'd their <hi>Carthaginian</hi> Foes)</l>
+               <l>To Grapple in cloſe Fight, make the <hi>Dutch</hi> ſtand</l>
+               <l>As firm at Sea, as if they fought on Land.</l>
+               <l>The <hi>Monſieur</hi> (who devoted his fine Blood</l>
+               <l>Not to the <hi>Holland</hi> cauſe, but Neighbour-hood.)</l>
+               <l>Was at a loſſe, with tortur'd eye-brows gaz'd,</l>
+               <l>Never at any Miſtriſs ſo amaz'd.</l>
+               <l>Frolick at firſt, as if he came to hunt</l>
+               <l>For Mer-maids, but met no venereal brunt:</l>
+               <l>(<hi>Venus</hi> was gone, and lay in <hi>Mars</hi> his Arms;</l>
+               <l>As Fortune did i'th' <hi>Dukes,</hi> with Nobler charms)</l>
+               <l>Muſt ſtand or fall; things he's not us'd to do,</l>
+               <l>Can He but run with <hi>ſix Legs</hi> or with two.</l>
+               <l>Fir'd over board the <hi>Poor petit French-man,</hi>
+               </l>
+               <l>Frisk like a Flounder lep't from frying Pan.</l>
+               <l>Now Muskets more Blood than the Canons ſpill,</l>
+               <l>Whilſt Swords, ſome Dutch with meer reflections kill.</l>
+               <l>Both ſides engage with free expence of breath;</l>
+               <l>As ſworn to conquer not their Foes, but death.</l>
+               <l>
+                  <hi>Opdam</hi> falls like a grave Judge from his Chair,</l>
+               <l>Is after coach'd in Flames into the Air.</l>
+               <l>
+                  <hi>Lepanto's</hi> force, compar'd to this dread ſight,</l>
+               <l>Was a faint skirmiſh, or a painted fight.</l>
+               <l>Two oppoſite Religions ſtruggled there;</l>
+               <l>Chriſtian with Turk, Chriſtian with Chriſtian here:</l>
+               <l>Proteſtant with Proteſtant, a worſe Fight</l>
+               <l>Than <hi>Bell</hi> and <hi>Dragon, Pope</hi> and <hi>Hugonite.</hi>
+               </l>
+               <l>When two croſs Elements for Maſtery ſtrive,</l>
+               <l>One dyes, that ſo the other may ſurvive:</l>
+               <l>So kinder diſtance oft a quarrel ends,</l>
+               <l>Continued by Antipathy of Friends.</l>
+               <l>
+                  <hi>Opdam</hi> thus blown up in both Navies eye,</l>
+               <l>(That Giant of the <hi>Dutch Theomachy</hi>)</l>
+               <l>Loath to give up at once their boaſted might,</l>
+               <l>The <hi>Hollanders</hi> like wary <hi>Parthians</hi> fight:</l>
+               <l>At length (as night to day) are forc'd to yield,</l>
+               <l>And quit their Stations in the Liquid Field.</l>
+               <l>While the aſtoniſh'd Sea in horrour ſtood,</l>
+               <l>Diſcoloured with two tinctures, Flames and Blood.</l>
+               <l>There might you ſee diſmember'd men appear,</l>
+               <l>Floating in ſhoals, no hope, nor Harbour neer:</l>
+               <l>Had only this perſwaſive to rejoice,</l>
+               <l>That of two certain deaths they had their choice:</l>
+               <l>But newly ſcorcht with Flames they were content,</l>
+               <l>To breath out in a cooler Element.</l>
+               <l>Had you but ſeen (beſide the ſunk and ſlain)</l>
+               <l>Thoſe ſwarms of deſp'rate Swimmers in the Main;</l>
+               <l>Aſtoniſht then, both Fleets, you would have ſaid,</l>
+               <l>Was into Fiſhes metamorphoſed.</l>
+               <l>Great Duke, thou care of Heaven, hadſt no defence,</l>
+               <l>But a juſt Cauſe guarded by Providence:</l>
+               <l>How did your courage the whole Fleet inſpire,</l>
+               <l>And coldeſt breaſts to fearleſs Actions fire?</l>
+               <l>What ſence of manhood wrought for <hi>Spain</hi> and <hi>France,</hi>
+               </l>
+               <l>Honour would for your Native ſoil advance:</l>
+               <l>You skermiſh'd only as a Soldier there,</l>
+               <l>Fought now as a concern'd Proprietere.</l>
+               <l>Was here to nothing, but your ſelf, unkind,</l>
+               <l>When for exchange of deaths, you left behind</l>
+               <l>Dear Relatives, a Brother and a King,</l>
+               <l>A Royal Mother, and a nearer THING,</l>
+               <l>The vertuous Dutcheſſe; whoſe bleſt Prayers and tears</l>
+               <l>Redeem'd your life, and ranſom'd all our fears.</l>
+               <l>Some great ones fell, t'inſtruct us by their fate,</l>
+               <l>We honour love, which our baſe enemies hate;</l>
+               <l>A double glory from their falls did riſe,</l>
+               <l>To be their Countries, and your Sacrifice.</l>
+               <l>O may the hearts of theſe three Nations burn</l>
+               <l>One entire Holocauſt for your Return.</l>
+               <l>Brave <hi>Rupert,</hi> whoſe high, and yet humble ſpirit</l>
+               <l>Diſguis'd the Prince, diſtinguiſh'd by his merit:</l>
+               <l>May the convinc'd world never more be rude</l>
+               <l>To check your juſt fame by ingratitude.</l>
+               <l>The <hi>Engliſh</hi> (who in former times we find</l>
+               <l>So civil and ſo hoſpitably kind)</l>
+               <l>'Gainſt ſtrangers now a prejudice have rais'd,</l>
+               <l>All may be <hi>Virtuoſi,</hi> but none prais'd.</l>
+               <l>Had all the Champions of our vanquiſht Cauſe</l>
+               <l>(Who fought for honour, liberty and Laws)</l>
+               <l>Been ſtout as you, a glorious Wight (now dead)</l>
+               <l>Had kept four Crowns, and his more precious head.</l>
+               <l>Methink I hear ſome interrupting voice</l>
+               <l>Whiſper your worſted Enemies rejoice:</l>
+               <l>Oh let them laugh that win! let 'em make ſquibs</l>
+               <l>Thank Heaven and us for threſhing their Whale-ribs.</l>
+               <l>A fool will ſoon conjecture it goes ill</l>
+               <l>With him that's bruis'd and is not ſenſible.</l>
+               <l>What need they Conquer, whoſe unhallowed Bells</l>
+               <l>Can cant a Vict'ry, when they ſhould ring knells?</l>
+               <l>Who can their Froes with faigned bonefires greet,</l>
+               <l>And mock the real bonefires of their Fleet.</l>
+               <l>Well, ſeldome game ſo loſt, but Loſers make</l>
+               <l>One trick; The Conquer'd from their Conquerors take.</l>
+               <l>Fortune was pleaſant, when ſhe lent the <hi>Dutch</hi>
+               </l>
+               <l>Our <hi>CHARITY,</hi> a thing they wanted much.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> printed for <hi>Thomas Palmer</hi> at the <hi>Crown</hi> in <hi>Weſtminſter-Hall,</hi> 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
